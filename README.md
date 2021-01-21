@@ -2,7 +2,7 @@
 
 1. Clone/Download a repo.
    ```sh
-   git clone https://github.com/fahmiyonda007/PerpustakaanAPI
+   git clone https://github.com/fahmiyonda007/moonlaywebtest
    ```
 2. Install [Composer](https://getcomposer.org/)
 3. open project using VS Code
